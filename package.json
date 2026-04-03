@@ -9,6 +9,14 @@
     "dist"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnie86/react-dialog-kit"
+  },
+  "homepage": "https://github.com/mnie86/react-dialog-kit",
+  "bugs": {
+    "url": "https://github.com/mnie86/react-dialog-kit/issues"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest --config jest.config.js",
